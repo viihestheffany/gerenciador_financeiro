@@ -4,4 +4,5 @@
 
 ### Descrição do projeto
 
-Gerenciador Financeiro, Node, React e Mysql.
+Gerenciador Financeiro em Node.js,
+React e APP wm react Native.
